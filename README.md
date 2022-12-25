@@ -35,10 +35,6 @@ scan barcode from your expo app
 ## Project Setup from Zip
 
 ```
-open terminal and go to your local directory
-```
-
-```
 extract zip
 ```
 
